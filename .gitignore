@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.vercel/
+tmp/
+.DS_Store
+.env*
+!.env.example
+
+# Referências originais; versões utilizadas estão em public/
+BOOK-EXTRAIDO/
+FOTOS FLAMBOYANT/
